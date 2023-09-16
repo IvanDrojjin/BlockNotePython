@@ -1,0 +1,20 @@
+16-09-2023 10:59:55 - INFO - <module> - Start program
+16-09-2023 11:00:00 - INFO - operations - Show all notes
+16-09-2023 11:00:13 - INFO - operations - Show all notes
+16-09-2023 11:00:23 - INFO - operations - Selected by ID
+16-09-2023 11:00:45 - INFO - operations - Selected by date
+16-09-2023 11:04:18 - INFO - operations - Selected by ID
+16-09-2023 11:04:34 - INFO - operations - Stop program
+16-09-2023 11:18:27 - INFO - <module> - Start program
+16-09-2023 11:18:34 - INFO - operations - Show all notes
+16-09-2023 11:18:52 - INFO - operations - Enter new note
+16-09-2023 11:19:17 - INFO - create_note - Created new note with id 11
+16-09-2023 11:19:17 - INFO - add_data - New data was added
+16-09-2023 11:19:30 - INFO - operations - Show all notes
+16-09-2023 11:19:40 - INFO - operations - Selected by ID
+16-09-2023 11:20:25 - INFO - change_note - Changed note with id 11
+16-09-2023 11:20:25 - INFO - write_file - New datafile was created
+16-09-2023 11:20:25 - INFO - change_note - Database was changed
+16-09-2023 11:20:33 - INFO - operations - Selected by ID
+16-09-2023 11:20:42 - INFO - operations - Stop program
+
